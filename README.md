@@ -43,7 +43,7 @@ The architecture follows three viewpoints:
 
 ---
 
-## 📡 IoT Components
+## IoT Components
 
 | Component | Role |
 |---|---|
@@ -54,7 +54,7 @@ The architecture follows three viewpoints:
 
 ---
 
-## 🤖 AI Models
+## AI Models
 
 | Model | Function | Contribution |
 |---|---|---|
@@ -116,7 +116,7 @@ The project follows an agile **SCRUM** methodology across three phases:
 
 | File | Description |
 |---|---|
-| `Poster_AI4IOT_Buck_Vohrer_Lehmann.pdf` | Full concept poster (TDWI submission) |
+| `Concept_Poster.pdf` | Full concept poster (TDWI submission) |
 | `Slides.pptx` | Presentation slides |
 
 ---
